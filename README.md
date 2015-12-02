@@ -28,4 +28,6 @@ improve performance (reverted - see inline comments - line 441)
 - Use screen height to calculate number of pizzas to display rather than 
 having it hard coded to 200 pizzas (see inline comments - line 521)
 
+-Visit my GitHub page https://github.com/Redae-1/Website_Optimization_P4
+
 
